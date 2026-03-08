@@ -50,8 +50,14 @@ OPENAI_API_KEY=sk-your-actual-api-key-here
 
 ## Использование
 
-Запустите программу:
+### Способ 1: Через bat-файл (Windows)
+1. Откройте папку `landing_redesign_assistant` в проводнике
+2. Двойной клик на файл `run.bat`
+3. Программа запустится автоматически
+
+### Способ 2: Через командную строку
 ```bash
+cd landing_redesign_assistant
 python agent.py
 ```
 
